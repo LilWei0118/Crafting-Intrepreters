@@ -1,3 +1,4 @@
 # Crafting-Intrepreters
-Implementation of CraftingIntrepreters in Java ＆ c
+Implementation of A Interpreters of lox in Java ＆ c
+ 
 See https://craftinginterpreters.com/contents.html
