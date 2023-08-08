@@ -54,5 +54,6 @@ public class Lox {
                 "[line " + line + "] Error" + where + ": " + message);
         hadError = true;
     }
+
 }
 
